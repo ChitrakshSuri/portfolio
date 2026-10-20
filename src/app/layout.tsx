@@ -15,6 +15,7 @@ const body = Figtree({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.chitrakshsuri.in"),
   title: "Chitraksh Suri | AI Engineer",
   description:
     "Chitraksh Suri builds AI agents, RAG systems and voice agents. Software engineer at Prismberry, based in Noida.",
@@ -22,6 +23,14 @@ export const metadata: Metadata = {
     title: "Chitraksh Suri | AI Engineer",
     description: "AI agents, RAG, voice agents and the backends behind them.",
     type: "website",
+    url: "/",
+    images: [{ url: "/og.jpg", width: 1200, height: 630, alt: "Chitraksh Suri: think and ship" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Chitraksh Suri | AI Engineer",
+    description: "AI agents, RAG, voice agents and the backends behind them.",
+    images: ["/og.jpg"],
   },
 };
 
