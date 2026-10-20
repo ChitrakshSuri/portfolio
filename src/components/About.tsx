@@ -28,9 +28,9 @@ export default function About() {
           </Reveal>
           <Reveal delay={0.18} className="mt-6 max-w-[58ch] text-xl">
             <p>
-              I started in automation, wiring n8n workflows and voice agents for sales teams, then moved to the backend
-              side of AI engineering. Today that means LangGraph state machines, hybrid retrieval, streaming APIs and the guardrails
-              that keep them honest.
+              I started by automating sales workflows with voice agents, then went deeper into the engineering behind them.
+              Today I build agentic systems: multi-agent graphs in LangGraph, hybrid retrieval with reranking, real-time voice,
+              and the guardrails and tracing that keep them reliable in production.
             </p>
           </Reveal>
           <Squiggle className="mt-10 w-40" />
