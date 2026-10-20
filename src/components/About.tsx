@@ -28,8 +28,8 @@ export default function About() {
           </Reveal>
           <Reveal delay={0.18} className="mt-6 max-w-[58ch] text-xl">
             <p>
-              I started as a frontend intern, then moved into AI: voice-driven workflow automation, AI avatars and lead
-              generation systems with voice agents. Today I build AI projects end to end: multi-agent systems in LangGraph,
+              I started as a frontend intern, then moved into AI: voice-driven workflow automation and AI avatars, then lead
+              generation and data enrichment pipelines. Today I build AI projects end to end: multi-agent systems in LangGraph,
               hybrid retrieval, real-time voice, and the backends around GPT and other LLMs, with guardrails and tracing to
               keep them reliable. I even built a GPT from scratch to see what happens inside one.
             </p>
