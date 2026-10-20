@@ -28,9 +28,10 @@ export default function About() {
           </Reveal>
           <Reveal delay={0.18} className="mt-6 max-w-[58ch] text-xl">
             <p>
-              I started by automating sales workflows with voice agents, then went deeper into the engineering behind them.
-              Today I build agentic systems: multi-agent graphs in LangGraph, hybrid retrieval with reranking, real-time voice,
-              and the guardrails and tracing that keep them reliable in production.
+              I started at a lead generation company, building voice agents and automation, then went deeper into the
+              engineering behind them. Today I build AI projects end to end: multi-agent systems in LangGraph, hybrid
+              retrieval, real-time voice, and the backends around GPT and other LLMs, with the guardrails and tracing that keep
+              them reliable in production. I even built a GPT from scratch in PyTorch to see what happens inside one.
             </p>
           </Reveal>
           <Squiggle className="mt-10 w-40" />
