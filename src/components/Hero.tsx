@@ -146,7 +146,7 @@ export default function Hero() {
 
       <div className="wrap relative z-20 mt-4 flex flex-col items-center gap-6 pb-24 text-center md:-mt-4">
         <p className="max-w-[44ch] text-xl font-semibold leading-snug sm:text-2xl">
-          AI engineer in Noida. I build agents that talk, retrieve and ship: text-to-SQL, voice, RAG.
+          AI engineer in Noida. I build agents that query your data, talk back by voice and hold up in production.
         </p>
         <div className="flex flex-wrap justify-center gap-3">
           <a href="#work" className="btn">

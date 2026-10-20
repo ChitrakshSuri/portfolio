@@ -198,7 +198,7 @@ export const skills = [
   {
     group: "AI frameworks",
     tone: "sky" as const,
-    items: ["PyTorch", "LangChain", "LangGraph", "LiteLLM", "LlamaIndex", "LangSmith", "LiveKit Agents", "Pipecat", "Vapi", "Inngest", "Cohere rerank", "Multi-agent", "RAG"],
+    items: ["PyTorch", "LangChain", "LangGraph", "LiteLLM", "LlamaIndex", "LangSmith", "MCP", "LiveKit Agents", "Pipecat", "Vapi", "Inngest", "Cohere rerank", "Multi-agent", "RAG"],
   },
   { group: "Automation & tools", tone: "mint" as const, items: ["n8n", "Relevance AI", "Apify", "Git", "Linux"] },
   {
@@ -213,6 +213,7 @@ export const marquee = [
   "LLMs",
   "LangGraph",
   "RAG",
+  "MCP",
   "vLLM",
   "Vector DBs",
   "Voice agents",
