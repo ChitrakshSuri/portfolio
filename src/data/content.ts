@@ -5,7 +5,7 @@ export const profile = {
   email: "chitrakshsuri2005@gmail.com",
   linkedin: "https://www.linkedin.com/in/chitrakshsuri",
   github: "https://github.com/ChitrakshSuri",
-  resume: "https://drive.google.com/file/d/13BzM5TLUauc5uzSKYCE1PsEPwKDx20pQ/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/19idIOXfoIDzs4fhW8jrmxN3pOEbmpqG1/view?usp=sharing",
   upwork: "https://www.upwork.com/freelancers/~015f55204594669b58",
   // link to the IEEE SCEECS paper; the research card becomes a link once this is filled in
   paper: "https://ieeexplore.ieee.org/document/11429907",
@@ -257,6 +257,6 @@ export const hire = {
   ],
   quote: {
     text: "It was very pleasant to work with Chitraksh. He is a very skilled developer, very good at communicating, and understood the problem and solved it quickly.",
-    by: "Client, Upwork bug-fix job, June 2026",
+    by: "Client review on Upwork, June 2026",
   },
 };
