@@ -1,6 +1,6 @@
 # Chitraksh Suri | Portfolio
 
-Personal portfolio of Chitraksh Suri, an AI engineer in Noida who builds agents, RAG systems and voice AI.
+Personal portfolio of Chitraksh Suri, an AI engineer who builds agents, RAG systems and voice AI.
 A playful, pastel one-pager: giant type, a pixel-art avatar, outlined stickers and a cursor-reactive hero.
 
 ![Portfolio hero](docs/preview.jpg)
