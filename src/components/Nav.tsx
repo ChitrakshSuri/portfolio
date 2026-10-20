@@ -2,6 +2,7 @@ import { profile } from "@/data/content";
 
 const links = [
   ["Work", "#work"],
+  ["Hire", "#hire"],
   ["Experience", "#experience"],
   ["Skills", "#skills"],
   ["Research", "#research"],
@@ -26,7 +27,7 @@ export default function Nav() {
 
         <ul className="hidden items-center gap-5 sm:flex text-[14px] font-bold uppercase tracking-wide lg:gap-9 lg:text-[15px]">
           {links.map(([label, href]) => (
-            <li key={href} className={href === "#work" || href === "#contact" ? "" : "hidden lg:block"}>
+            <li key={href} className={href === "#work" || href === "#hire" || href === "#contact" ? "" : "hidden lg:block"}>
               <a href={href} className="py-2 transition-colors duration-150 hover:text-coral">
                 {label}
               </a>

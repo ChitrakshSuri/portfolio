@@ -221,3 +221,41 @@ export const marquee = [
   "Machine learning",
   "PyTorch",
 ];
+
+export const hire = {
+  results: [
+    { big: "90%", text: "lower costs for a mortgage broker, with an AI system that runs on its own", tone: "yellow" as const },
+    { big: "18+ hrs", text: "saved every week for a hotel, by automating the manual work", tone: "mint" as const },
+    { big: "3 days → <1s", text: "turnaround on a RAG-powered recommendation engine", tone: "sky" as const },
+    { big: "7×", text: "content engagement in 60 days from an AI content pipeline", tone: "pink" as const },
+  ],
+  offers: [
+    { title: "AI & voice agents", text: "Agents that book, answer and escalate: chat, WhatsApp or phone, with a human in the loop where it matters.", tone: "coral" as const },
+    { title: "RAG pipelines", text: "Search and Q&A over your documents and databases, with retrieval that is actually relevant and answers that cite sources.", tone: "lilac" as const },
+    { title: "Automation", text: "n8n and Python workflows for lead generation, CRM enrichment and the repetitive work your team does by hand.", tone: "mint" as const },
+  ],
+  production: {
+    title: "Vibe-coded to production-ready",
+    text: "You built it with AI and it works on your laptop. I turn it into something you can put customers on.",
+    checks: [
+      "Auth, secrets and input validation",
+      "Error handling, retries and timeouts",
+      "Tests for the parts that must not break",
+      "Docker, CI and a real deploy",
+      "Logging, tracing and cost / latency checks",
+      "A short handover so your team can keep going",
+    ],
+  },
+  trust: [
+    "Rising Talent on Upwork",
+    "5.0 on both rated jobs",
+    "198 hours billed",
+    "Replies within 0 to 4 hours",
+    "30+ hrs a week",
+    "Open to contract-to-hire",
+  ],
+  quote: {
+    text: "It was very pleasant to work with Chitraksh. He is a very skilled developer, very good at communicating, and understood the problem and solved it quickly.",
+    by: "Client, Upwork bug-fix job, June 2026",
+  },
+};

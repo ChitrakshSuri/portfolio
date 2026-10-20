@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import Marquee from "@/components/Marquee";
 import About from "@/components/About";
 import Work from "@/components/Work";
+import Hire from "@/components/Hire";
 import Experience from "@/components/Experience";
 import Skills from "@/components/Skills";
 import Research from "@/components/Research";
@@ -17,6 +18,7 @@ export default function Home() {
         <Marquee />
         <About />
         <Work />
+        <Hire />
         <Experience />
         <Skills />
         <Research />
