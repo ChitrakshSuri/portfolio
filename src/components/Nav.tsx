@@ -2,10 +2,10 @@ import { profile } from "@/data/content";
 
 const links = [
   ["Work", "#work"],
-  ["Hire", "#hire"],
   ["Experience", "#experience"],
   ["Skills", "#skills"],
   ["Research", "#research"],
+  ["Hire", "#hire"],
   ["Contact", "#contact"],
 ];
 
