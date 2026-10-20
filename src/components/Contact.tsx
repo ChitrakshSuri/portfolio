@@ -53,7 +53,7 @@ export default function Contact() {
         </Reveal>
 
         <p className="display mt-[clamp(60px,9vw,130px)] whitespace-nowrap text-center text-[clamp(2.5rem,12.4vw,17rem)] leading-[0.8]">
-          chitraksh suri
+          chitraksh suri.
         </p>
         <p className="mt-6 text-center text-[15px] font-semibold">
           Designed and built by me. Next.js, Tailwind and Framer Motion.
