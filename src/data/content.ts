@@ -183,11 +183,11 @@ export const jobs = [
 ];
 
 export const skills = [
-  { group: "Languages", tone: "yellow" as const, items: ["Python", "TypeScript", "JavaScript", "C / C++", "SQL"] },
+  { group: "Languages", tone: "yellow" as const, items: ["Python", "C / C++", "SQL"] },
   {
     group: "AI & ML",
     tone: "pink" as const,
-    items: ["Agentic AI", "Generative AI", "Machine learning", "Deep learning", "NLP", "Multimodal AI", "Voice & speech AI", "Computer vision", "Text-to-SQL", "Prompt engineering"],
+    items: ["Agentic AI", "Generative AI", "Machine learning", "Deep learning", "NLP", "Multimodal AI", "Voice & speech AI", "Text-to-SQL", "Prompt engineering"],
   },
   {
     group: "LLMs & models",
